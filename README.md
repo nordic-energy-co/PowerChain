@@ -3,6 +3,7 @@
 ## PowerChain is a blockchain-based Distributed Internet Infrastructure. 
 
 PowerChain is a blockchain-based Distributed Internet Infrastructure. PowerChain blockchain protocol powered by Nordic Energy smart contract, token (NET) and the native cryptocurrency NEC brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
+
 PowerChain blockchain operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model.
 
 #
@@ -24,13 +25,13 @@ PowerChain Blockchain can ensure open and well-timed exchange of energy for valu
 
 •	PowerChain (Blockchain) can hold reference data in a dynamic way, as new data comes in, the information gets updated which in turn can be accessed immediately by all participating institutions.
 
-#
+
 
 ### Platform & Financial Benefits:
 
 PowerChain blockchain has the potential to cut costs from huge expenses incurred by traditional company and industry infrastructures. PowerChain can hold reference data in a dynamic way, as new data comes in, the information gets updated which in turn can be accessed immediately by all participating institutions. PowerChain offers a completely novel way to raise money by cutting the middlemen in process. This will bring expediency and in turn incentivize business. 
 
-#
+
 
 ### PowerChain - Blockchain Architecture:
 
@@ -38,7 +39,7 @@ PowerChain blockchain allow for the automated execution of smart contracts in pe
 
 A PowerChain blockchain protocol powered by Nordic Energy´s smart contract, NET token and the native cryptocurrency NEC. PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security. Nordic Energy´s PowerChain operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model.
 
-#
+
 
 ### PowerChain Network gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
@@ -46,7 +47,7 @@ A PowerChain blockchain protocol powered by Nordic Energy´s smart contract, NET
 •	is fully compatible with EOSIO and aims to achieve millions transactions per second
 •	its delegated proof of stake blockchain to easily deploy (partners) business on the PowerChain blockchain.
 
-#
+
 
 ### The next-generation blockchain protocol with industry- leading transaction speed and flexible utility based of EOSIO blockchain infrastructure:
 
@@ -56,7 +57,7 @@ A PowerChain blockchain protocol powered by Nordic Energy´s smart contract, NET
 
 •	A blockchain is a decentralized, distributed, and oftentimes public, digital ledger that is used to record transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks... A blockchain has been described as a value-exchange protocol.
 
-#
+
 
 ### Delegated Proof-Of-Stake Consensus Protocol (DPOS):
 
