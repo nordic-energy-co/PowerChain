@@ -20,7 +20,7 @@ $ Nordic Energy Wallet help
 ### energy
 Prints lifetime generation of electricity associated with this wallet.
 ```
-$ corrently energy
+$ nordic energy
 0.0003506081621004566 kWh
 ```
 
@@ -28,7 +28,7 @@ $ corrently energy
 Prints current OTC market available to wallet
 ```
 $ nordic energy token market
-ID	Corrently	Name
+ID	nordic energy	Name
 #0:	27		PV Plant Gibralta
 #1:	32		WindPark Hessen-Süd
 #2:	29		WindPark Maingau
