@@ -2,6 +2,8 @@
 # PowerChain is a blockchain-based Distributed Internet Infrastructure
 
 
+
+
 #### What is PowerChain?
 
 PowerChain blockchain protocol powered by PowerChain smart contracts and the native cryptocurrency PWC. PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
