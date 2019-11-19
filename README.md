@@ -1,12 +1,11 @@
 
-# PowerChain is a blockchain-based Distributed Internet Infrastructure
+# PowerChain Blockchain-based Energy Infrastructure
 
-
-
+#
 
 #### What is PowerChain?
 
-PowerChain blockchain protocol powered by PowerChain smart contracts and the native cryptocurrency PWC. PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
+Blockchain-based protocol powered by smart contracts and the native cryptocurrency PowerChain (PWRC). PowerChain brings speed and scalability to a multi-blockchain architecture that addresses the need for minimal transaction fees and highly security.
 
 Blockchain-enabled transactional digital platform offer operational cost reductions, increased efficiency, fast and automated processes, transparency and the possibility of reducing capital requirements for company. Blockchain applications in the energy sector and state that blockchain-enabled platform can facilitate financial transactions between different financial institutions and make payments faster by speeding up confirmation times. 
 
@@ -14,15 +13,13 @@ The main use of smart contracts process of issuing ownership rights to real-worl
 
 
 
-
-#
 #### Protocol: 
 
 A Blockchain-based of EOSIO technology “to revolutionize the global energy market through decentralization and industries". Our smart contract technologies based delegated proof-of-stake consensus protocol. 
 
 
-
 #
+
 #### PowerChain´s gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
 - energy smart contract platform to eliminate transaction fees 
