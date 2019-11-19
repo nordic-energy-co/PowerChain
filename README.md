@@ -1,7 +1,6 @@
 
-# PowerChain Blockchain-based Energy Infrastructure
+# PowerChain - Blockchain-based Energy Infrastructure
 
-#
 
 #### What is PowerChain?
 
