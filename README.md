@@ -9,7 +9,7 @@ A Cross-Blockchain technologies “to revolutionize the global energy market thr
 
 ### Blockchain technology in the energy sector
 
-Blockchain-based protocol powered by smart contracts and the native cryptocurrency PowerChain (PWRC). Nordic Energy´s PowerChain network brings speed and scalability to a cross-blockchain architecture that addresses the need for minimal transaction fees and highly security.
+PowerChain is Blockchain-based protocol powered by smart contracts and the native cryptocurrency PowerChain (PWRC). Nordic Energy´s PowerChain network brings speed and scalability to a cross-blockchain architecture that addresses the need for minimal transaction fees and highly security.
 
 Blockchain-enabled transactional digital platform offer operational cost reductions, increased efficiency, fast and automated processes, transparency and the possibility of reducing capital requirements for company. Blockchain applications in the energy sector and state that blockchain-enabled platform can facilitate financial transactions between different financial institutions and make payments faster by speeding up confirmation times. 
 
