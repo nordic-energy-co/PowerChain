@@ -65,8 +65,8 @@ is a fully compliant security and utility token issuance platform with a post-to
 
 #### Project website: https://powerchain.nordicenergy.io (development)
 #### Conpany mainpage: https://nordicenergy.co (development)
-#### ICO/STO Token Sale: https://nordicenergy.io
-#### ICO/STO Launchpad official website: https://nordicenergy.app
+#### ICO/STO Token Sale official website: https://nordicenergy.io
+#### ICO/STO Launchpad: https://nordicenergy.app
 #### Crowdsale smart contract: https://etherscan.io/address/0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95
 
 #
