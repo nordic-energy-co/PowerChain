@@ -1,6 +1,6 @@
 
 
-<img src="/docs/powerchain-coin.png" alt="PowerChain"/>
+<img src="/docs/powerchain-logo.png" alt="PowerChain"/>
 
 # PowerChain - Blockchain-based Energy Infrastructure
 
