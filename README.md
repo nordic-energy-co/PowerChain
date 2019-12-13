@@ -47,4 +47,10 @@ To become the leading distributor for blockchain innovation, platform and entrep
 
 We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open-source development within the next energy revolution to create an autonomous network that NET tokens helps renewable energy prosumers to exchange energy in a more democratic system, and to create new community-driven energy models that embrace green energy initiatives. We hope to power an increased investment in green energy, power energy provenance certificates to verify green energy origins, and create a paradigm for decentralized energy grid management. The NET token aim to simplify our life, ordering process, settlements with energy smart contracts, facilitate payments, automate billing processes.
 
+### Token sale management, and user dashboard:
 
+is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
+
+1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO/STO’s progress. 
+
+2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
