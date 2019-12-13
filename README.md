@@ -36,7 +36,6 @@ Our smart contract technologies based delegated proof-of-stake consensus protoco
 
 #
 
-
 <img src="/Docs/powerchain-coin.png" alt="PowerChain"/>
 
 ### Tokenomics Overwiev
