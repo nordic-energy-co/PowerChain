@@ -75,7 +75,6 @@ is a fully compliant security and utility token issuance platform with a post-to
 
 #### Social Media:
  </div>
-   <ul class="w-100">
    <li><a href="https://www.facebook.com/nordicenergy.co/?modal=admin_todo_tour/"><i class="fab fa-facebook-f"></i></a></li>
    <li><a href="https://twitter.com/nordicenergy1/"><i class="fab fa-twitter"></i></a></li>
    <li><a href="https://t.me/nordicenergy/"><i class="fab fa-telegram"></i></a></li>
