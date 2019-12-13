@@ -61,3 +61,19 @@ is a fully compliant security and utility token issuance platform with a post-to
 #### Project website: https://nordicenergy.io
 #### ICO/STO Launchpad official website: https://nordicenergy.app
 #### Crowdsale smart contract: https://etherscan.io/address/0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95
+
+#
+
+#### Developments (Todo):
+
+
+1. Eosio smart contract development
+2. Platform developments
+2. Developing PowerChain (coin) or 
+3. ICO/STO dashboard multi-currency support 
+4. Wallet support
+5. Token/coin exchange option
+6. Technical details/whitepaper development
+7. Nordic Energy security token developments (company shareholder?) 
+8. Airdrop token development
+9. to get more team members and blockchain developers
