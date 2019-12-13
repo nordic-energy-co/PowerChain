@@ -1,4 +1,7 @@
 
+
+<img src="/docs/powerchain-coin.png" alt="PowerChain"/>
+
 # PowerChain - Blockchain-based Energy Infrastructure
 
 A Cross-Blockchain technologies “to revolutionize the global energy market through decentralization and industries"
