@@ -4,7 +4,7 @@
 A Cross-Blockchain technologies “to revolutionize the global energy market through decentralization and industries"
 
 
-#### Blockchain technology in the energy sector
+### Blockchain technology in the energy sector
 
 Blockchain-based protocol powered by smart contracts and the native cryptocurrency PowerChain (PWRC). Nordic Energy´s PowerChain network brings speed and scalability to a cross-blockchain architecture that addresses the need for minimal transaction fees and highly security.
 
@@ -23,10 +23,13 @@ Our smart contract technologies based delegated proof-of-stake consensus protoco
 
 #### Nordic Energy´s PowerChain gives smart contracts secure access to platform external data, blockchain transactions, and other API capabilities:
 
-- energy smart contract platform to eliminate transaction fees 
-- is fully compatible with Ethereum including Eosio and aims to achieve millions transactions per second
-- its delegated proof of stake blockchain 
+- smart contract platform to eliminate transaction fees 
+- cross-blockchain technologies (Ethereum, EOSIO)
+- is fully compatible with EOSIO and aims to achieve millions transactions per second
+- it´s delegated proof of stake blockchain 
 - to easily deploy (partners) business on the PowerChain Blockchain.
+- electric vehiclecCharging point operations
+- to support smart cities and IOT devices
 
 #
 
@@ -36,12 +39,12 @@ This document provides an overwiev of the Nordic Energy ecosystem.
 
 #### The NET token, as well as additional information pertaining to Nordic Energy´s token sale:
 
-We´re excited to announce that Nordic Energy´s NET token offering has commenced and is now available to contributors of every country expect United States, Canada, and China. Nordic Energy will be raising $6 million through the NET token sale.
+We´re excited to announce that Nordic Energy´s NET token offering has commenced and is now available to contributors of every country expect United States, Canada, and China. (development)
 
 
-#### Introducing the NET token
+#### Introducing the NET token:
 
-NET is utility token of Nordic Energy ecosystem. Nordic Energy´s PowerChain cross-blockchain platforms enables for creating, electricity trading, digital assets. We using blockchain-based technology to transform the energy ecosystem, building a business of the new energy generation. Nordic Energy´s infrastructure includes the traditional utilities associated with peer-to-peer energy trading, transport, management, supply-chains and administrative functions. The NET token connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
+NET is utility token of Nordic Energy ecosystem: Nordic Energy´s PowerChain cross-blockchain platforms enables for creating, electricity trading, digital assets. We using blockchain-based technology to transform the energy ecosystem, building a business of the new energy generation. Nordic Energy´s infrastructure includes the traditional utilities associated with peer-to-peer energy trading, transport, management, supply-chains and administrative functions. The NET token connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
 
 To become the leading distributor for blockchain innovation, platform and entrepreneurship in sustainable energy. Is use blockchain token smart contracts to reduce the Easy Supplier Integration Services scheme will cut the time and costs of processing orders, as well as increasing reliability and integrating better with customers’ own (clean) electricity generating systems, technology, using the platform to authenticate the provenance of 100% clean energy, energy efficiency products and bringing a new level of multi-layered electricity distribution to the energy industry.
 
@@ -54,3 +57,6 @@ is a fully compliant security and utility token issuance platform with a post-to
 1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO/STO’s progress. 
 
 2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
+
+
+#### ICO Launchpad official website: https://nordicenergy.app
