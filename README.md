@@ -28,9 +28,9 @@ Our smart contract technologies based delegated proof-of-stake consensus protoco
 - its delegated proof of stake blockchain 
 - to easily deploy (partners) business on the PowerChain Blockchain.
 
+#
 
-
-#### Tokenomics Overwiev
+### Tokenomics Overwiev
 
 This document provides an overwiev of the Nordic Energy ecosystem. 
 
