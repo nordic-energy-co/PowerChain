@@ -58,5 +58,5 @@ is a fully compliant security and utility token issuance platform with a post-to
 
 2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
 
-
+#### Project website: https://nordicenergy.io
 #### ICO Launchpad official website: https://nordicenergy.app
