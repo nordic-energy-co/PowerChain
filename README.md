@@ -1,6 +1,6 @@
 
 
-<img src="/Docs/powerchain-logo.png" alt="PowerChain"/>
+<img src="/docs/powerchain-logo.png" alt="PowerChain"/>
 
 ## Blockchain-based Energy Infrastructure
 
@@ -36,7 +36,9 @@ Our smart contract technologies based delegated proof-of-stake consensus protoco
 
 #
 
-<img src="/Docs/powerchain-coin.png" alt="PowerChain"/>
+
+<img src="/docs/powerchain-coin.png" alt="PowerChain"/>
+
 
 ### Tokenomics Overwiev
 
@@ -74,16 +76,7 @@ is a fully compliant security and utility token issuance platform with a post-to
 
 
 #### Social Media:
- </div>
-   <li><a href="https://www.facebook.com/nordicenergy.co/?modal=admin_todo_tour/"><i class="fab fa-facebook-f"></i></a></li>
-   <li><a href="https://twitter.com/nordicenergy1/"><i class="fab fa-twitter"></i></a></li>
-   <li><a href="https://t.me/nordicenergy/"><i class="fab fa-telegram"></i></a></li>
-   <li><a href="https://bitcointalk.org/index.php?topic=5164586.0/"><i class="fab fa-bitcoin"></i></a></li>
-   <li><a href="https://www.youtube.com/channel/UC5pF4pPYckZjCzSsZIk3-dg?view_as=subscriber/"><i class="fab fa-youtube"></i></a></li>
-   <li><a href="https://medium.com/@nordicenergy/"><i class="fab fa-medium"></i></a></li>
-   <li><a href="https://www.linkedin.com/company/nordic-energy-a-blockchain-based-energy-ecosystem-and-infastructure/?viewAsMember=true/"><i class="fab fa-linkedin"></i></a></li>
-   <li><a href="https://github.com/nordicenergy?tab=repositories/"><i class="fab fa-github"></i></a></li>
- </ul>
+
 
 #
 
